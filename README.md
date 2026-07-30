@@ -72,13 +72,13 @@ CampusCart is an online store designed for university students to conveniently b
 ![Login Page](images/login-page.png)
 
 ### 2. Product Catalog Page
-![Products Page](images/products-page.png)
+![Products Page](images/PRODUCTS.png)
 
 ### 3. Customer Contact Page
-![Contact Page](images/contact-page.png)
+![Contact Page](images/CONTACT.png)
 
 ### 4. Interactive Shopping Cart
-![Shopping Cart](images/cart-page.png)
+![Shopping Cart](images/CART (2).png)
 
 ---
 
