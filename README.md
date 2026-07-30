@@ -97,9 +97,9 @@ CampusCart is an online store designed for university students to conveniently b
 ---
 
 ## Lessons Learned
-- How to effectively translate a Figma UI/UX blueprint into a live no-code website on Wix[cite: 3].
-- Hands-on experience implementing e-commerce components (product catalogs, custom inputs, interactive carts)[cite: 3].
-- Evaluating software design platforms and selecting the best tool based on technical requirements[cite: 3].
+- How to effectively translate a Figma UI/UX blueprint into a live no-code website on Wix.
+- Hands-on experience implementing e-commerce components (product catalogs, custom inputs, interactive carts).
+- Evaluating software design platforms and selecting the best tool based on technical requirements.
 
 ---
 
@@ -110,7 +110,7 @@ CampusCart-NoCode-Website/
 ├── README.md
 │
 └── images/
-    ├── login-page.png
-    ├── products-page.png
-    ├── contact-page.png
-    └── cart-page.png
+    ├── LOGIN.png
+    ├── PRODUCT.png
+    ├── CONTACT.png
+    └── CARTP.png
