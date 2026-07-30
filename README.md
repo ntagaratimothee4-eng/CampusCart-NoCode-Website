@@ -78,7 +78,7 @@ CampusCart is an online store designed for university students to conveniently b
 ![Contact Page](images/CONTACT.png)
 
 ### 4. Interactive Shopping Cart
-![Shopping Cart](images/CART PAGE.png)
+![Shopping Cart](images/CARTP.png)
 
 ---
 
