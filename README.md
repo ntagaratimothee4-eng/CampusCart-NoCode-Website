@@ -3,7 +3,7 @@
 ## Student Information
 - **Course:** INSY 8313 – Management Information System (MIS)
 - **Instructor:** Eric Maniraguha
-- **Assessment:** Group Assignment IV-b – No-Code/Low-Code E-Commerce Application Development Project[cite: 3]
+- **Assessment:** Group Assignment IV-b – No-Code/Low-Code E-Commerce Application Development Project
 - **Student Name:** NTAGARA Timothe (29504)
 - **Student Name:** ISHIMWE Ghyslain (29601)
 
@@ -25,7 +25,7 @@ CampusCart is an online store designed for university students to conveniently b
 ---
 
 ## Project Links
-- **Live Website:** [Insert your published Wix URL, e.g., https://campuscart-1.com][cite: 3]
+- **Live Website:** [https://ntagaratimothee4.wixsite.com/campuscart-1]
 - **Figma Design (Assignment IV-a):** [https://www.figma.com/design/9pTqUbu17suvk7chV4ThHZ/campus-cart-library?node-id=0-1&t=joKwr3U5zTm4DjTK-1]
 - **GitHub Repository:** https://github.com/ntagaratimothee4-eng/CampusCart-NoCode-Website
 
